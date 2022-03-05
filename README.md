@@ -2,7 +2,7 @@
 
 # Test Case Description
 
-This repo was created for Selenium Web Testing.Within the project, a test scenarios were written using Java Selenium and Page Object Model.In addition, BDD approach has been applied in this project. The BDD approach ensures that the test automation is easily understandable by using a common language that can be understood by all units.
+This repo was created for Selenium Web Testing.Within the project, a test scenario was written using Java Selenium and Page Object Model.In addition, BDD approach has been applied in this project. The BDD approach ensures that the test automation is easily understandable by using a common language that can be understood by all units.
 
 ## Requirements Before Installation
 - Java
